@@ -24,5 +24,6 @@ The code examples for the first edition of the book were moved to a different re
 <img width="501" alt="image" src="https://user-images.githubusercontent.com/46268176/191866350-2942e81d-de84-4866-856d-75e8bb6f352f.png">
 
 ## Activity 3
+<img width="440" alt="image" src="https://user-images.githubusercontent.com/46268176/191869792-0f4e36b3-0ed5-469e-bf00-5cf39dc9d8c9.png">
 
 ## Activity 4
