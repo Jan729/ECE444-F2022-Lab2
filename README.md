@@ -16,6 +16,7 @@ For Readers of the First Edition of the Book
 The code examples for the first edition of the book were moved to a different repository: [https://github.com/miguelgrinberg/flasky-first-edition](https://github.com/miguelgrinberg/flasky-first-edition).
 
 ## Activity 1
+![image](https://user-images.githubusercontent.com/46268176/191857270-049786c6-3665-46ed-86f0-57a512269e48.png)
 
 ## Activity 2
 
