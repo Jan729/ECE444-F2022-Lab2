@@ -19,6 +19,8 @@ The code examples for the first edition of the book were moved to a different re
 ![image](https://user-images.githubusercontent.com/46268176/191857270-049786c6-3665-46ed-86f0-57a512269e48.png)
 
 ## Activity 2
+<img width="477" alt="image" src="https://user-images.githubusercontent.com/46268176/191865439-66ce0036-3e39-45f5-9463-25f84c0ec77e.png">
+
 
 ## Activity 3
 
